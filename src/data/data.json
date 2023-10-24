@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "imagen": "../img/producto-1.webp",
+        "nombre": "REMERA DE JERSEY LISA VERDE AGUA",
+        "descripcion": "Remera de manga corta en color verde agua, confeccionada en jersey de algodón peinado 100%. Presenta cuello redondo y un corte regular fit. Ideal para un look casual y cómodo.",
+        "categoria": "remeras",
+        "precio": 20000
+    },
+    {
+        "id": "2",
+        "imagen": "../img/producto-2.webp",
+        "nombre": "REMERA DE JERSEY FLAMA ESTAMPADA AERO",
+        "descripcion": "Remera de manga corta con diseño Aero y estampado, cuello redondo y corte regular fit. Confeccionada en 100% algodón de alta calidad.",
+        "categoria": "remeras",
+        "precio": 23000
+    },
+    {
+        "id": "3",
+        "imagen": "../img/producto-3.webp",
+        "nombre": "REMERA DE JERSEY AZUL CLARO",
+        "descripcion": "Remera de manga corta en color azul claro confeccionada en jersey de cuello redondo y corte regular fit. Elaborada en 100% algodón peinado para mayor suavidad y durabilidad.",
+        "categoria": "remeras",
+        "precio": 20000
+    },
+    {
+        "id": "4",
+        "imagen": "../img/producto-4.webp",
+        "nombre": "REMERA LISA DE JERSEY NEGRA",
+        "descripcion": "Remera de jersey manga corta con diseño liso de Escote Redondo en color negro. De calce Regular fit. Confeccionado con 100% algodón de jersey peinado. Ideal para combinar con un look casual.",
+        "categoria": "remeras",
+        "precio": 20000
+    },
+    {
+        "id": "5",
+        "imagen": "../img/producto-5.webp",
+        "nombre": "REMERA DE JERSEY RAYADA AZUL CLARO",
+        "descripcion": "Remera de manga corta en tono azul claro con cuello redondo y diseño rayado. Con un corte regular fit y confeccionada en 100% algodón peinado para mayor comodidad y durabilidad.",
+        "categoria": "remeras",
+        "precio": 23000
+    },
+    {
+        "id": "6",
+        "imagen": "../img/producto-6.webp",
+        "nombre": "REMERA DE JERSEY ESTAMPADA BLANCA",
+        "descripcion": "Remera de manga corta en color blanco con cuello redondo y estampado. Con un corte regular fit y confeccionada en 100% algodón peinado.",
+        "categoria": "remeras",
+        "precio": 14000
+    },
+    {
+        "id": "7",
+        "imagen": "../img/producto-7.webp",
+        "nombre": "TRAJE SS100 SATÉN GRIS OSCURO",
+        "descripcion": "Traje SS 100 con un diseño liso semi satinado. Saco incluye un cuello en V. Con juego de dos botones y tres bolsillos externos. El pantalón es recto, sin pinzas. De tiro medio. Incluye cuatro bolsillos dos laterales y dos traseros. El conjunto es de calce slim fit y de color gris oscuro. Ideal para distintas ocasiones de outfit formal.",
+        "categoria": "trajes",
+        "precio": 151000
+    },
+    {
+        "id": "8",
+        "imagen": "../img/producto-8.webp",
+        "nombre": "TRAJE SS100 LISO SATÉN NEGRO",
+        "descripcion": "Traje SS 100 con un diseño liso semi satinado. Saco incluye un cuello en V. Con juego de dos botones y tres bolsillos externos. El pantalón es recto, sin pinzas. De tiro medio. Incluye cuatro bolsillos dos laterales y dos traseros. El conjunto es de calce slim fit y de color negro. Ideal para distintas ocasiones de outfit formal.",
+        "categoria": "trajes",
+        "precio": 151000
+    },
+    {
+        "id": "9",
+        "imagen": "../img/producto-9.webp",
+        "nombre": "TRAJE SS100 AZUL MARINO",
+        "descripcion": "Traje SS 100 con un diseño de micromotivo. Saco incluye un cuello en V, con juego de dos botones y tres bolsillos externos. El pantalón es recto, sin pinzas. De tiro. Incluye cuatro bolsillos dos laterales y dos traseros. El conjunto es de calce slim fit y de color azul marino. Ideal para distintas ocasiones de un outfit casual o formal.",
+        "categoria": "trajes",
+        "precio": 136000
+    },
+    {
+        "id": "10",
+        "imagen": "../img/producto-10.webp",
+        "nombre": "TRAJE SS100 FANTASÍA SLIM FIT AZULINO",
+        "descripcion": "Traje SS100 con diseño fantasía Slim fit de color azulino. Pantalón de tiro medio con 4 bolsillos. Sin pinzas. Saco con juego de 2 botones y 2 aberturas traseras. Confeccionado con 90% poliéster y 10% rayón. Ideal para combinar con un look formal.",
+        "categoria": "trajes",
+        "precio": 161000
+    },
+    {
+        "id": "11",
+        "imagen": "../img/producto-11.webp",
+        "nombre": "TRAJE SUPER SIMIL 100 FANTASÍA GRIS",
+        "descripcion": "Traje Súper Símil 100 con diseño Fantasía de color gris. Pantalón sin pinzas de 4 bolsillos y de tiro medio. Saco con cuello en V juego de 2 botones sin aberturas en la parte posterior elaborado con 90% poliéster y 10% de rayón. De clace Slim Fit ideal para combinar con un look formal.",
+        "categoria": "trajes",
+        "precio": 161000
+    },
+    {
+        "id": "12",
+        "imagen": "../img/producto-12.webp",
+        "nombre": "TRAJE SS100 LISO SLIM FIT NEGRO",
+        "descripcion": "Traje SS 100 con un diseño liso semi satinado. El saco incluye un cuello en V, con juego de dos botones y tres bolsillos externos. El pantalón es recto, sin pinzas. De tiro medio. Incluye cuatro bolsillos dos laterales y dos traseros. El conjunto es de calce slim fit y de color negro. Ideal para distintas ocasiones de outfit formal.",
+        "categoria": "trajes",
+        "precio": 136000
+    },
+    {
+        "id": "13",
+        "imagen": "../img/producto-13.webp",
+        "nombre": "CHOMBA PIQUÉ RAYADA VERDE",
+        "descripcion": "Chomba de piqué manga corta con diseño de raya fina de color verde oscuro. De cuello polo. De calce regular. Confeccionado con algodón piqué peinado en un 100%. Ideal para combinar con un look casual.",
+        "categoria": "chombas",
+        "precio": 31000
+    },
+    {
+        "id": "14",
+        "imagen": "../img/producto-14.webp",
+        "nombre": "CHOMBA DE PIQUÉ LISA BITONO CELESTE",
+        "descripcion": "Chomba Manga Corta de tela Piqué con diseño Liso en 2 tonos Celeste y azul melange. De cuello Polo en azul melange. Calce Regular fit. Confeccionada en 100% Algodón piqué peinado. Ideal para combinar con un look casual.",
+        "categoria": "chombas",
+        "precio": 31000
+    },
+    {
+        "id": "15",
+        "imagen": "../img/producto-15.webp",
+        "nombre": "CHOMBA DE JERSEY LISA BLANCA",
+        "descripcion": "Chomba de jersey manga corta con diseño liso de color blanco. De cuello polo al tono con juego de botones. De calce clásico. Ideal para combinar con un look casual o de verano.",
+        "categoria": "chombas",
+        "precio": 22000
+    },
+    {
+        "id": "16",
+        "imagen": "../img/producto-16.webp",
+        "nombre": "CHOMBA DE JERSEY ROSA",
+        "descripcion": "Chomba manga corta de tela jersey con diseño rayado de color celeste claro. Cuello polo. De calce Regular fit. Compuesta de 65% de algodón y 35% de poliéster. Ideal para combinar con un look fresco y casual.",
+        "categoria": "chombas",
+        "precio": 22000
+    },
+    {
+        "id": "17",
+        "imagen": "../img/producto-17.webp",
+        "nombre": "CHOMBA MANGA CORTA CELESTE",
+        "descripcion": "Chomba manga corta en color celeste, cuello tipo polo. Está hecha de 100% algodón y su corte es regular fit.",
+        "categoria": "chombas",
+        "precio": 29000
+    },
+    {
+        "id": "18",
+        "imagen": "../img/producto-18.webp",
+        "nombre": "CHOMBA LISA VERDE",
+        "descripcion": "Chomba de manga corta en verde. Cuenta con cuello estilo polo. Hecha de 100% algodón, tiene un corte regular fit.",
+        "categoria": "chombas",
+        "precio": 29000
+    },
+    {
+        "id": "19",
+        "imagen": "../img/producto-19.webp",
+        "nombre": "CAMISA CHAMBRAY CORAL",
+        "descripcion": "Camisa sport de manga corta de tela chambray y cuello botón escondido. De color coral. De calce regular fit. Composición 65% de algodón y 35% de Poliéster. Ideal para combinar con un look casual.",
+        "categoria": "camisas",
+        "precio": 37000
+    },
+    {
+        "id": "20",
+        "imagen": "../img/producto-20.webp",
+        "nombre": "CAMISA RATIER CELESTE",
+        "descripcion": "Camisa sport ratier slim fit con cuello punta botón. Composición 60% algodón y 40% poliéster. Perfecta para ocasiones informales o de trabajo.",
+        "categoria": "camisas",
+        "precio": 46000
+    },
+    {
+        "id": "21",
+        "imagen": "../img/producto-21.webp",
+        "nombre": "CAMISA CHAMBRAY VERDE AGUA",
+        "descripcion": "Chomba manga corta de tela jersey con diseño rayado de color verde. Cuello polo. De calce Regular fit. Compuesta de 65% de algodón y 35% de poliéster. Ideal para combinar con un look fresco y casual.",
+        "categoria": "camisas",
+        "precio": 37000
+    },
+    {
+        "id": "22",
+        "imagen": "../img/producto-22.webp",
+        "nombre": "CAMISA CON FANTASÍA AZUL MARINO",
+        "descripcion": "Camisa sport de manga corta presenta un diseño a cuadros en tonalidades azul marino. Su cuello cuenta con botones escondidos y está confeccionada en un 60% de algodón y un 40% de poliéster, lo que le otorga una textura suave y resistente. Su corte regular fit asegura una comodidad óptima.",
+        "categoria": "camisas",
+        "precio": 40000
+    },
+    {
+        "id": "23",
+        "imagen": "../img/producto-23.webp",
+        "nombre": "CAMISA ESTAMPADA CELESTE CLARO",
+        "descripcion": "Camisa sport de manga larga con diseño estampado con botones escondido. De color celeste claro. De cuello punta botón. De calce slim fit. Confeccionada con algodón 40% y 60% de 10% poliéster. Ideal para combinar un look casual.",
+        "categoria": "camisas",
+        "precio": 46000
+    },
+    {
+        "id": "24",
+        "imagen": "../img/producto-24.webp",
+        "nombre": "CAMISA A CUADROS AZUL MARINO",
+        "descripcion": "Camisa sport de manga corta presenta un diseño a cuadros en tonalidades azul marino. Su cuello cuenta con botones escondidos y está confeccionada en un 60% de algodón y un 40% de poliéster, lo que le otorga una textura suave y resistente. Su corte regular fit asegura una comodidad óptima.",
+        "categoria": "camisas",
+        "precio": 37000
+    },
+    {
+        "id": "25",
+        "imagen": "../img/producto-25.webp",
+        "nombre": "PANTALÓN LISO DE GABARDINA SIN PINZAS BEIGE",
+        "descripcion": "Pantalón casual tipo sport de gabardina fina. Con diseño liso de color beige, sin pinzas. De tiro y con cuatro bolsillos. De calce slim fit. Confeccionado con algodón 97% y 3% de spandex para mayor comodidad. Ideal para combinar con un look casual.",
+        "categoria": "pantalones",
+        "precio": 58000
+    },
+    {
+        "id": "26",
+        "imagen": "../img/producto-26.webp",
+        "nombre": "PANTALÓN DE GABARDINA LISO AZUL MARINO",
+        "descripcion": "Pantalón casual tipo sport de gabardina fina. Con diseño liso de color azul marino, sin pinzas. De tiro y con cuatro bolsillos. De calce slim fit. Confeccionado con algodón 97% y 3% de spandex para mayor comodidad. Ideal para combinar con un look casual.",
+        "categoria": "pantalones",
+        "precio": 55000
+    },
+    {
+        "id": "27",
+        "imagen": "../img/producto-27.webp",
+        "nombre": "PANTALÓN LISO DE GABARDINA SIN PINZAS AZUL",
+        "descripcion": "Pantalón casual tipo sport de gabardina fina. Con diseño liso de color azul marino, sin pinzas. De tiro y con cuatro bolsillos. De calce slim fit. Confeccionado con algodón 97% y 3% de spandex para mayor comodidad. Ideal para combinar con un look casual.",
+        "categoria": "pantalones",
+        "precio": 58000
+    },
+    {
+        "id": "28",
+        "imagen": "../img/producto-28.webp",
+        "nombre": "PANTALÓN DE GABARDINA LISO NEGRO",
+        "descripcion": "Pantalón casual tipo sport de gabardina fina. Con diseño liso de color negro, sin pinzas. De tiro y con cuatro bolsillos. De calce slim fit. Confeccionado con algodón 97% y 3% de spandex para mayor comodidad. Ideal para combinar con un look casual.",
+        "categoria": "pantalones",
+        "precio": 58000
+    },
+    {
+        "id": "29",
+        "imagen": "../img/producto-29.webp",
+        "nombre": "PANTALÓN DE GABARDINA LISO SLIM FIT BEIGE",
+        "descripcion": "Pantalón casual tipo sport de gabardina fina de 7 onzas. Con diseño liso de color beige, sin pinzas. De tiro y con cuatro bolsillos. De calce slim fit. Confeccionado con algodón 97% y 3% de elastano. Ideal para combinar con un look casual.",
+        "categoria": "pantalones",
+        "precio": 55000
+    },
+    {
+        "id": "30",
+        "imagen": "../img/producto-30.webp",
+        "nombre": "PANTALÓN DE GABARDINA LISO SLIM FIT NEGRO",
+        "descripcion": "Pantalón casual tipo sport de gabardina fina. Con diseño liso de color negro, sin pinzas. De tiro y con cuatro bolsillos. De calce slim fit. Confeccionado con algodón 97% y 3% de spandex para mayor comodidad. Ideal para combinar con un look casual.",
+        "categoria": "pantalones",
+        "precio": 55000
+    }
+]
