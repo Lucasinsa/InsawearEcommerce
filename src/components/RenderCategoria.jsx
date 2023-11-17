@@ -1,6 +1,7 @@
 import React from 'react'
 
 const RenderCategoria = ({ categoryId }) => {
+    //Función que define el titulo y subtitulo de la categoria visual
     const definirTexto = (titulo,subtitulo) => {
         return (
             <div>

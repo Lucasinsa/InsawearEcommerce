@@ -1,19 +1,29 @@
 import React from 'react'
-import { useCounter } from '../hooks/useCounter'
 
-const ItemCount = () => {
-  const {decrementar, incrementar, cantidad} = useCounter(0,0,10)
-
+const ItemCount = ({decrementar, incrementar, cantidad, decrementarProducto, incrementarProducto}) => {
+  //Función decremento
+  const decremento = () => {
+    if(cantidad > 1){
+      decrementar()
+      decrementarProducto && decrementarProducto()
+    }
+  }
+  
+  //Función incremento
+  const incremento = () => {
+    if(cantidad <= 9){
+      incrementar()
+      incrementarProducto && incrementarProducto()
+    }
+  }
+  
   return (
     <div className='contenedor-contador'>
-        <div className='contador'>
-            <button onClick={decrementar}>-</button>
+        <div className={!incrementarProducto ? 'contador' : 'counter-carrito'}>
+            <button onClick={decremento}>-</button>
             <p className='numero-contador'>{cantidad}</p>
-            <button onClick={incrementar}>+</button>
+            <button onClick={incremento}>+</button>
         </div>
-        <button className='boton-agregar-carrito' onClick={()=>{console.log(`Agregados ${cantidad} productos.`)}}>
-          Agregar al carrito
-        </button>
     </div>
   )
 }

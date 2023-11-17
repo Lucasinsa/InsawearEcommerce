@@ -4,13 +4,12 @@ import { Container, Nav, Navbar, Image, NavDropdown } from 'react-bootstrap'
 import { Link, NavLink } from 'react-router-dom'
 
 const NavBar = () => {
-
   return (
     <Navbar expand="lg" className="navbar-editado" fixed="top">
         <Container fluid className='flex-navbar-editado'>
             <Link to={"/"}>
                 <Navbar.Brand className='navbar-brand-editado'>
-                    <Image src="/img/logo.png" className='navbar-brand-editado' alt="Logo de Insawear" fluid/>
+                    <Image src="https://firebasestorage.googleapis.com/v0/b/insawearecommerce.appspot.com/o/img%2Flogo.png?alt=media&token=48205d74-2fb0-4404-bb37-879f5b9167de" className='navbar-brand-editado' alt="Logo de Insawear" fluid/>
                 </Navbar.Brand>
             </Link>
             <div className="d-lg-none d-flex">
