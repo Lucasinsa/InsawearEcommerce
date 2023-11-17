@@ -10,7 +10,7 @@ Se trata de un e-commerce de ropa masculina en el que el usuario puede filtrar p
 
 En el siguiente GIF se muestran las diferentes rutas posibles de la APP.
 
-![Gif Funcionamiento](https://firebasestorage.googleapis.com/v0/b/insawearecommerce.appspot.com/o/gif%2Ffuncionamiento.gif?alt=media&token=72c6f572-a104-4cde-b39b-2f5090afdeb0)
+![Gif Funcionamiento](public/funcionamiento.gif)
 
 - **Logo:** Dirige a la ruta '/'.
 - **Inicio:** Dirige a la ruta '/'.
