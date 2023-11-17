@@ -25,8 +25,9 @@ En el siguiente GIF se muestran las diferentes rutas posibles de la APP.
 Seguí estos pasos para instalar y ejecutar el proyecto en tu máquina:
 
 1. Cloná este repositorio: `git clone https://github.com/Lucasinsa/InsawearEcommerce.git`
-3. Instala las dependencias: `npm install`
-4. Inicia la aplicación en tu localhost: `npm run dev`
+2. Dirigite a: `cd\insawear`
+1. Instala las dependencias: `npm install`
+1. Inicia la aplicación en tu localhost: `npm run dev`
 
 ## Dependencias
 
