@@ -1,54 +1,48 @@
-# INSAWEAR: E-commerce con ReactJS
+# INSAWEAR: E-commerce with ReactJS
+Project carried out as part of the ReactJS course at Coderhouse.
 
-Proyecto realizado como parte del curso de ReactJS en Coderhouse. 
+## What is it about?
+It is a men's clothing e-commerce in which the user can filter products by category, see the details of each of the products and add the desired quantity of an item to the cart. At the end of the purchase, the data is requested, the purchase order is saved in the Firebase technology database and the order number is given to the user.
 
+## APP navegation
+The following GIF shows the different possible routes of the APP:
 
-## ¿De qué se trata?
-Se trata de un e-commerce de ropa masculina en el que el usuario puede filtrar productos por categoría, ver el detalle de cada uno de los productos y agregar la cantidad deseada de un item al carrito. Al finalizar la compra, se piden los datos, se guarda la orden de compra en la base de datos de la tecnología Firebase y se da un feedback del número de orden al usuario.
+![Gif Functioning](public/funcionamiento.gif)
 
-## Navegación de la aplicación
+- **Logo:** Directs to route '/'.
+- **Inicio:** Directs to route '/'.
+- **Categorías:** Directs to route '/category/:categoryId'.
+- **Locales:** Directs to route '/locales'
+- **Cart:** Directs to route '/cart'
+- **Ver detalle:** Directs to route '/item/:id'
+- **Comprar:** Directs to route '/finalizar-compra'
 
-En el siguiente GIF se muestran las diferentes rutas posibles de la APP.
+## Installation
+Follow these steps to install and run the project on your machine:
 
-![Gif Funcionamiento](public/funcionamiento.gif)
+1. Clone this repository: `git clone https://github.com/Lucasinsa/InsawearEcommerce.git`
+2. Go to: `cd\insawear`
+3. Install the dependencies: `npm install`
+4. Start the app in your localhost: `npm run dev`
 
-- **Logo:** Dirige a la ruta '/'.
-- **Inicio:** Dirige a la ruta '/'.
-- **Categorías:** Dirige a la ruta '/category/:categoryId'.
-- **Locales:** Dirige a la ruta '/locales'
-- **Cart:** Dirige a la ruta '/cart'
-- **Ver detalle:** Dirige a la ruta '/item/:id'
-- **Comprar:** Dirige a la ruta '/finalizar-compra'
+## Dependencies
+Make sure you have the following dependencies installed before running the project:
 
-## Instalación
+- [Node.js](https://nodejs.org/): Node.js is required to run the development environment and build tools.
 
-Seguí estos pasos para instalar y ejecutar el proyecto en tu máquina:
+### Libraries and Frameworks:
 
-1. Cloná este repositorio: `git clone https://github.com/Lucasinsa/InsawearEcommerce.git`
-2. Dirigite a: `cd\insawear`
-1. Instala las dependencias: `npm install`
-1. Inicia la aplicación en tu localhost: `npm run dev`
-
-## Dependencias
-
-Asegurate de tener las siguientes dependencias instaladas antes de ejecutar el proyecto:
-
-- [Node.js](https://nodejs.org/): Se requiere Node.js para ejecutar el entorno de desarrollo y las herramientas de construcción.
-
-### Librerías y Frameworks:
-
-- [React](https://reactjs.org/): Biblioteca principal para construir interfaces de usuario.
-- [React DOM](https://reactjs.org/docs/react-dom.html): React específico para la manipulación del DOM.
-- [React Router DOM](https://reactrouter.com/): Enrutador para la navegación en una aplicación de una sola página.
-- [Bootstrap](https://getbootstrap.com/): Framework de diseño para crear interfaces atractivas.
-- [Firebase](https://firebase.google.com/): Plataforma para el desarrollo de aplicaciones móviles y web.
-- [React Bootstrap](https://react-bootstrap.github.io/): Integración de Bootstrap con React.
-- [SweetAlert2](https://sweetalert2.github.io/): Biblioteca para ventanas modales personalizables.
-- [sonner](https://sonner.emilkowal.ski/): Biblioteca para añadir notificaciones personalizadas.
+- [React](https://reactjs.org/): Main library for building user interfaces.
+- [React DOM](https://reactjs.org/docs/react-dom.html): React specific for DOM manipulation.
+- [React Router DOM](https://reactrouter.com/): Router for navigation in a single page application.
+- [Bootstrap](https://getbootstrap.com/): Design framework to create attractive interfaces.
+- [Firebase](https://firebase.google.com/): Platform for the development of mobile and web applications.
+- [React Bootstrap](https://react-bootstrap.github.io/): Bootstrap integration with React.
+- [SweetAlert2](https://sweetalert2.github.io/): Library for customizable modal windows.
+- [sonner](https://sonner.emilkowal.ski/): Library to add custom notifications.
 
 ## DevDependencies
+These are the dependencies used for the development and construction of the project. You do not need to install them manually to run the application, but they are required for development tasks.
 
-Estas son las dependencias utilizadas para el desarrollo y la construcción del proyecto. No es necesario instalarlas manualmente para ejecutar la aplicación, pero son necesarias para tareas de desarrollo.
-
-- [Vite](https://vitejs.dev/): Herramienta de desarrollo rápida y eficiente para proyectos de JavaScript y React.
-- [ESLint](https://eslint.org/): Herramienta de linting para identificar y corregir problemas en el código.
+- [Vite](https://vitejs.dev/): Fast and efficient development tool for JavaScript and React projects.
+- [ESLint](https://eslint.org/): Linting tool to identify and fix problems in the code.
